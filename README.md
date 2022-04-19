@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfkRohan
-- 👀 I’m interested in Mobile apps based on iot,image processing,artificial intelligence, cross platform apps.
-- 🌱 I’m currently learning flutter,esp32,networking
+- 👀 I’m interested in Gaming,Software testing,IoT based networking protocols,cloud integration.
+- 🌱 I’m currently learning Python,software testing...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
   Mail me at rohan74shah76@gmail.com
