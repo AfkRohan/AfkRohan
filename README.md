@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AfkRohan
-- 👀 I’m interested in Gaming,Software testing,IoT based networking protocols,cloud integration.
+- 👀 I’m interested in Gaming,Software testing,IoT based networking protocols,Front-end development.
 - 🌱 I’m currently learning Python,software testing...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
