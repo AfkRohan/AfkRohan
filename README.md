@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AfkRohan
 - 👀 I’m interested in Gaming,Software testing,IoT based networking protocols,Front-end development.
 - 🌱 I’m currently learning Python,software testing,front-end development using react js...
-- 💞️ I’m looking to collaborate on Testing,Captioning, Front-end and projects related ESP-32.
+- 💞️ I’m looking to collaborate on Testing,Captioning, Front-end projects.
 - 📫 How to reach me ?
   Mail me at rohan74shah76@gmail.com
 
